@@ -1,0 +1,1388 @@
+{
+  "monezi350": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-sammeln/muenzen/anzeige:angebote/preis:350:499/seite:#pag#/c234+sammeln.art_s:muenzen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "monezi350"
+  },
+  "monezi500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-sammeln/muenzen/anzeige:angebote/preis:500:699/seite:#pag#/c234+sammeln.art_s:muenzen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "monezi500"
+  },
+  "monezi700": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-sammeln/muenzen/anzeige:angebote/preis:700:1199/seite:#pag#/c234+sammeln.art_s:muenzen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "monezi700"
+  },
+  "monezi1200": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-sammeln/muenzen/anzeige:angebote/preis:1200:/seite:#pag#/c234+sammeln.art_s:muenzen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "monezi1200"
+  },
+  "uhren350": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/uhren/anzeige:angebote/preis:350:399/seite:#pag#/c156+accessoires_schmuck.art_s:uhren",
+    "pag": 1,
+    "culink": 0,
+    "filename": "uhren350"
+  },
+  "uhren400": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/uhren/anzeige:angebote/preis:400:499/seite:#pag#/c156+accessoires_schmuck.art_s:uhren",
+    "pag": 1,
+    "culink": 0,
+    "filename": "uhren400"
+  },
+  "uhren500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/uhren/anzeige:angebote/preis:500:599/seite:#pag#/c156+accessoires_schmuck.art_s:uhren",
+    "pag": 1,
+    "culink": 0,
+    "filename": "uhren500"
+  },
+  "uhren600": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/uhren/anzeige:angebote/preis:600:699/seite:#pag#/c156+accessoires_schmuck.art_s:uhren",
+    "pag": 1,
+    "culink": 0,
+    "filename": "uhren600"
+  },
+  "uhren700": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/uhren/anzeige:angebote/preis:700:899/seite:#pag#/c156+accessoires_schmuck.art_s:uhren",
+    "pag": 1,
+    "culink": 0,
+    "filename": "uhren700"
+  },
+  "uhren900": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/uhren/anzeige:angebote/preis:900:1199/seite:#pag#/c156+accessoires_schmuck.art_s:uhren",
+    "pag": 1,
+    "culink": 0,
+    "filename": "uhren900"
+  },
+  "uhren1200": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/uhren/anzeige:angebote/preis:1200:1699/seite:#pag#/c156+accessoires_schmuck.art_s:uhren",
+    "pag": 1,
+    "culink": 0,
+    "filename": "uhren1200"
+  },
+  "uhren1700": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/uhren/anzeige:angebote/preis:1700:2399/seite:#pag#/c156+accessoires_schmuck.art_s:uhren",
+    "pag": 1,
+    "culink": 0,
+    "filename": "uhren1700"
+  },
+  "uhren2400": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/uhren/anzeige:angebote/preis:2400:3499/seite:#pag#/c156+accessoires_schmuck.art_s:uhren",
+    "pag": 1,
+    "culink": 0,
+    "filename": "uhren2400"
+  },
+  "uhren3500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/uhren/anzeige:angebote/preis:3500:4999/seite:#pag#/c156+accessoires_schmuck.art_s:uhren",
+    "pag": 1,
+    "culink": 0,
+    "filename": "uhren3500"
+  },
+  "uhren5000": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/uhren/anzeige:angebote/preis:5000:8999/seite:#pag#/c156+accessoires_schmuck.art_s:uhren",
+    "pag": 1,
+    "culink": 0,
+    "filename": "uhren5000"
+  },
+  "uhren9000": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/uhren/anzeige:angebote/preis:9000:/seite:#pag#/c156+accessoires_schmuck.art_s:uhren",
+    "pag": 1,
+    "culink": 0,
+    "filename": "uhren9000"
+  },
+  "biju350": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/schmuck/anzeige:angebote/preis:350:389/seite:#pag#/c156+accessoires_schmuck.art_s:schmuck",
+    "pag": 1,
+    "culink": 0,
+    "filename": "biju350"
+  },
+  "biju390": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/schmuck/anzeige:angebote/preis:390:449/seite:#pag#/c156+accessoires_schmuck.art_s:schmuck",
+    "pag": 1,
+    "culink": 0,
+    "filename": "biju390"
+  },
+  "biju450": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/schmuck/anzeige:angebote/preis:450:499/seite:#pag#/c156+accessoires_schmuck.art_s:schmuck",
+    "pag": 1,
+    "culink": 0,
+    "filename": "biju450"
+  },
+  "biju500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/schmuck/anzeige:angebote/preis:500:599/seite:#pag#/c156+accessoires_schmuck.art_s:schmuck",
+    "pag": 1,
+    "culink": 0,
+    "filename": "biju500"
+  },
+  "biju600": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/schmuck/anzeige:angebote/preis:600:699/seite:#pag#/c156+accessoires_schmuck.art_s:schmuck",
+    "pag": 1,
+    "culink": 0,
+    "filename": "biju600"
+  },
+  "biju700": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/schmuck/anzeige:angebote/preis:700:899/seite:#pag#/c156+accessoires_schmuck.art_s:schmuck",
+    "pag": 1,
+    "culink": 0,
+    "filename": "biju700"
+  },
+  "biju900": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/schmuck/anzeige:angebote/preis:900:1199/seite:#pag#/c156+accessoires_schmuck.art_s:schmuck",
+    "pag": 1,
+    "culink": 0,
+    "filename": "biju900"
+  },
+  "biju1200": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/schmuck/anzeige:angebote/preis:1200:1599/seite:#pag#/c156+accessoires_schmuck.art_s:schmuck",
+    "pag": 1,
+    "culink": 0,
+    "filename": "biju1200"
+  },
+  "biju1600": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/schmuck/anzeige:angebote/preis:1600:2599/seite:#pag#/c156+accessoires_schmuck.art_s:schmuck",
+    "pag": 1,
+    "culink": 0,
+    "filename": "biju1600"
+  },
+  "biju2600": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/schmuck/anzeige:angebote/preis:2600:/seite:#pag#/c156+accessoires_schmuck.art_s:schmuck",
+    "pag": 1,
+    "culink": 0,
+    "filename": "biju2600"
+  },
+  "taschen350": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/taschen_rucksaecke/anzeige:angebote/preis:350:399/seite:#pag#/c156+accessoires_schmuck.art_s:taschen_rucksaecke",
+    "pag": 1,
+    "culink": 0,
+    "filename": "taschen350"
+  },
+  "taschen400": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/taschen_rucksaecke/anzeige:angebote/preis:400:449/seite:#pag#/c156+accessoires_schmuck.art_s:taschen_rucksaecke",
+    "pag": 1,
+    "culink": 0,
+    "filename": "taschen400"
+  },
+  "taschen450": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/taschen_rucksaecke/anzeige:angebote/preis:450:499/seite:#pag#/c156+accessoires_schmuck.art_s:taschen_rucksaecke",
+    "pag": 1,
+    "culink": 0,
+    "filename": "taschen450"
+  },
+  "taschen500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/taschen_rucksaecke/anzeige:angebote/preis:500:599/seite:#pag#/c156+accessoires_schmuck.art_s:taschen_rucksaecke",
+    "pag": 1,
+    "culink": 0,
+    "filename": "taschen500"
+  },
+  "taschen600": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/taschen_rucksaecke/anzeige:angebote/preis:600:749/seite:#pag#/c156+accessoires_schmuck.art_s:taschen_rucksaecke",
+    "pag": 1,
+    "culink": 0,
+    "filename": "taschen600"
+  },
+  "taschen750": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/taschen_rucksaecke/anzeige:angebote/preis:750:899/seite:#pag#/c156+accessoires_schmuck.art_s:taschen_rucksaecke",
+    "pag": 1,
+    "culink": 0,
+    "filename": "taschen750"
+  },
+  "taschen900": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/taschen_rucksaecke/anzeige:angebote/preis:900:1299/seite:#pag#/c156+accessoires_schmuck.art_s:taschen_rucksaecke",
+    "pag": 1,
+    "culink": 0,
+    "filename": "taschen900"
+  },
+  "taschen1300": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/taschen_rucksaecke/anzeige:angebote/preis:1300:2299/seite:#pag#/c156+accessoires_schmuck.art_s:taschen_rucksaecke",
+    "pag": 1,
+    "culink": 0,
+    "filename": "taschen1300"
+  },
+  "taschen2300": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-accessoires-schmuck/taschen_rucksaecke/anzeige:angebote/preis:2300:/seite:#pag#/c156+accessoires_schmuck.art_s:taschen_rucksaecke",
+    "pag": 1,
+    "culink": 0,
+    "filename": "taschen2300"
+  },
+  "07imac": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-pcs/anzeige:angebote/preis:390:/seite:#pag#/imac/k0c228",
+    "pag": 1,
+    "culink": 0,
+    "filename": "07imac"
+  },
+  "700pc": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-pcs/anzeige:angebote/preis:700:899/seite:#pag#/c228",
+    "pag": 1,
+    "culink": 0,
+    "filename": "700pc"
+  },
+  "900pc": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-pcs/anzeige:angebote/preis:900:1399/seite:#pag#/c228",
+    "pag": 1,
+    "culink": 0,
+    "filename": "900pc"
+  },
+  "1400pc": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-pcs/anzeige:angebote/preis:1400:/seite:#pag#/c228",
+    "pag": 1,
+    "culink": 0,
+    "filename": "1400pc"
+  },
+  "appuhr190": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-multimedia-elektronik/anzeige:angebote/preis:190:349/seite:#pag#/apple-watch/k0c161",
+    "pag": 1,
+    "culink": 0,
+    "filename": "appuhr190"
+  },
+  "appuhr350": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-multimedia-elektronik/anzeige:angebote/preis:350:/seite:#pag#/apple-watch/k0c161",
+    "pag": 1,
+    "culink": 0,
+    "filename": "appuhr350"
+  },
+  "navi290": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/auto_hifi_navigation/anzeige:angebote/preis:290:449/seite:#pag#/c223+autoteile_reifen.art_s:auto_hifi_navigation",
+    "pag": 1,
+    "culink": 0,
+    "filename": "navi290"
+  },
+  "navi450": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/auto_hifi_navigation/anzeige:angebote/preis:450:/seite:#pag#/c223+autoteile_reifen.art_s:auto_hifi_navigation",
+    "pag": 1,
+    "culink": 0,
+    "filename": "navi450"
+  },
+  "tm390": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-haushaltsgeraete/anzeige:angebote/preis:390:799/seite:#pag#/thermomix/k0c176",
+    "pag": 1,
+    "culink": 0,
+    "filename": "tm390"
+  },
+  "tm800": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-haushaltsgeraete/anzeige:angebote/preis:800:/seite:#pag#/thermomix/k0c176",
+    "pag": 1,
+    "culink": 0,
+    "filename": "tm800"
+  },
+  "modell390": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-modellbau/anzeige:angebote/preis:390:449/seite:#pag#/c249",
+    "pag": 1,
+    "culink": 0,
+    "filename": "modell390"
+  },
+  "modell450": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-modellbau/anzeige:angebote/preis:450:499/seite:#pag#/c249",
+    "pag": 1,
+    "culink": 0,
+    "filename": "modell450"
+  },
+  "modell500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-modellbau/anzeige:angebote/preis:500:599/seite:#pag#/c249",
+    "pag": 1,
+    "culink": 0,
+    "filename": "modell500"
+  },
+  "modell600": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-modellbau/anzeige:angebote/preis:600:799/seite:#pag#/c249",
+    "pag": 1,
+    "culink": 0,
+    "filename": "modell600"
+  },
+  "modell800": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-modellbau/anzeige:angebote/preis:800:1199/seite:#pag#/c249",
+    "pag": 1,
+    "culink": 0,
+    "filename": "modell800"
+  },
+  "modell1200": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-modellbau/anzeige:angebote/preis:1200:2199/seite:#pag#/c249",
+    "pag": 1,
+    "culink": 0,
+    "filename": "modell1200"
+  },
+  "modell2200": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-modellbau/anzeige:angebote/preis:2200:/seite:#pag#/c249",
+    "pag": 1,
+    "culink": 0,
+    "filename": "modell2200"
+  },
+  "foto1800": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:1800:/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto1800"
+  },
+  "foto1200": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:1200:1799/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto1200"
+  },
+  "foto900": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:900:1199/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto900"
+  },
+  "foto800": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:800:899/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto800"
+  },
+  "foto700": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:700:799/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto700"
+  },
+  "foto620": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:620:699/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto620"
+  },
+  "foto560": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:560:619/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto560"
+  },
+  "foto480": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:480:509/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto480"
+  },
+  "foto440": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:440:479/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto440"
+  },
+  "foto400": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:400:439/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto400"
+  },
+  "foto370": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:370:399/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto370"
+  },
+  "foto350": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:350:369/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto350"
+  },
+  "foto320": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:320:349/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto320"
+  },
+  "foto300": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:300:319/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto300"
+  },
+  "foto285": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:285:299/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto285"
+  },
+  "foto270": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:270:284/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto270"
+  },
+  "foto251": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:251:269/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto251"
+  },
+  "foto240": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-foto/anzeige:angebote/preis:240:250/seite:#pag#/c245",
+    "pag": 1,
+    "culink": 0,
+    "filename": "foto240"
+  },
+  "tab500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-tablets-reader/anzeige:angebote/preis:500:9999/seite:#pag#/c285",
+    "pag": 1,
+    "culink": 0,
+    "filename": "tab500"
+  },
+  "tab350": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-tablets-reader/anzeige:angebote/preis:350:499/seite:#pag#/c285",
+    "pag": 1,
+    "culink": 0,
+    "filename": "tab350"
+  },
+  "tab260": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-tablets-reader/anzeige:angebote/preis:260:349/seite:#pag#/c285",
+    "pag": 1,
+    "culink": 0,
+    "filename": "tab260"
+  },
+  "tab200": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-tablets-reader/anzeige:angebote/preis:200:259/seite:#pag#/c285",
+    "pag": 1,
+    "culink": 0,
+    "filename": "tab200"
+  },
+  "tab180": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-tablets-reader/anzeige:angebote/preis:180:199/seite:#pag#/c285",
+    "pag": 1,
+    "culink": 0,
+    "filename": "tab180"
+  },
+  "laptop1300": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:1300:/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop1300"
+  },
+  "laptop1000": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:1000:1299/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop1000"
+  },
+  "laptop800": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:800:999/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop800"
+  },
+  "laptop700": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:700:799/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop700"
+  },
+  "laptop600": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:600:699/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop600"
+  },
+  "laptop500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:500:599/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop500"
+  },
+  "laptop450": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:450:499/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop450"
+  },
+  "laptop400": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:400:449/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop400"
+  },
+  "laptop350": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:350:399/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop350"
+  },
+  "laptop300": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:300:349/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop300"
+  },
+  "laptop260": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:260:299/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop260"
+  },
+  "laptop240": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:240:259/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop240"
+  },
+  "laptop210": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-notebooks/anzeige:angebote/preis:210:239/seite:#pag#/c278",
+    "pag": 1,
+    "culink": 0,
+    "filename": "laptop210"
+  },
+  "console400": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/anzeige:angebote/preis:400:9999/seite:#pag#/c279",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console400"
+  },
+  "console320": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/anzeige:angebote/preis:320:399/seite:#pag#/c279",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console320"
+  },
+  "console290": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/anzeige:angebote/preis:290:319/seite:#pag#/c279",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console290"
+  },
+  "console260": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/anzeige:angebote/preis:260:289/seite:#pag#/c279",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console260"
+  },
+  "console250": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/anzeige:angebote/preis:250:259/seite:#pag#/c279",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console250"
+  },
+  "console230": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/anzeige:angebote/preis:230:249/seite:#pag#/c279",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console230"
+  },
+  "console210": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/anzeige:angebote/preis:210:229/seite:#pag#/c279",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console210"
+  },
+  "console199": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/playstation/anzeige:angebote/preis:199:209/seite:#pag#/c279+konsolen.art_s:playstation",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console199"
+  },
+  "console175": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/playstation/anzeige:angebote/preis:175:198/seite:#pag#/c279+konsolen.art_s:playstation",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console175"
+  },
+  "console174": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/playstation/anzeige:angebote/preis:130:174/seite:#pag#/4/k0c279+konsolen.art_s:playstation",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console174"
+  },
+  "console170": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/xbox/anzeige:angebote/preis:170:209/seite:#pag#/c279+konsolen.art_s:xbox",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console170"
+  },
+  "console160": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/weitere/anzeige:angebote/preis:160:209/seite:#pag#/c279+konsolen.art_s:weitere",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console160"
+  },
+  "console159": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-konsolen/dsi_psp/anzeige:angebote/preis:160:209/seite:#pag#/c279+konsolen.art_s:dsi_psp",
+    "pag": 1,
+    "culink": 0,
+    "filename": "console159"
+  },
+  "sculemakita": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-heimwerken/anzeige:angebote/preis:150:/seite:#pag#/makita/k0c84",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sculemakita"
+  },
+  "sculestihl": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-heimwerken/anzeige:angebote/preis:150:/seite:#pag#/stihl/k0c84",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sculestihl"
+  },
+  "sculedewalt": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-heimwerken/anzeige:angebote/preis:150:/seite:#pag#/dewalt/k0c84",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sculedewalt"
+  },
+  "sculehilti": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-heimwerken/anzeige:angebote/preis:150:/seite:#pag#/hilti/k0c84",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sculehilti"
+  },
+  "sculebosch": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-heimwerken/anzeige:angebote/preis:150:/seite:#pag#/bosch/k0c84",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sculebosch"
+  },
+  "monitor": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-pc-zubehoer-software/anzeige:angebote/preis:300:/seite:#pag#/monitor/k0c225",
+    "pag": 1,
+    "culink": 0,
+    "filename": "monitor"
+  },
+  "blackmagic": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-multimedia-elektronik/anzeige:angebote/preis:300:/seite:#pag#/blackmagic/k0c161",
+    "pag": 1,
+    "culink": 0,
+    "filename": "blackmagic"
+  },
+  "gibson": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-musikinstrumente/anzeige:angebote/preis:600:/seite:#pag#/gibson/k0c74",
+    "pag": 1,
+    "culink": 0,
+    "filename": "gibson"
+  },
+  "roland": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-musikinstrumente/anzeige:angebote/preis:600:/seite:#pag#/roland/k0c74",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roland"
+  },
+  "tyros": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-musikinstrumente/anzeige:angebote/preis:600:/seite:#pag#/tyros/k0c74",
+    "pag": 1,
+    "culink": 0,
+    "filename": "tyros"
+  },
+  "marshall": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-musikinstrumente/anzeige:angebote/preis:600:/seite:#pag#/marshall/k0c74",
+    "pag": 1,
+    "culink": 0,
+    "filename": "marshall"
+  },
+  "bike1500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:1500:1599/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike1500"
+  },
+  "bike1600": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:1600:1699/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike1600"
+  },
+  "bike1700": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:1700:1799/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike1700"
+  },
+  "bike1800": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:1800:1899/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike1800"
+  },
+  "bike1900": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:1900:1999/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike1900"
+  },
+  "bike2000": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:2000:2199/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike2000"
+  },
+  "bike2200": { 
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:2200:2299/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike2200"
+  },
+  "bike2300": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:2300:2399/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike2300"
+  },
+  "bike2400": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:2400:2499/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike2400"
+  },
+  "bike2500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:2500:2599/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike2500"
+  },
+  "bike2600": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:2600:2799/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike2600"
+  },
+  "bike2800": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:2800:2999/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike2800"
+  },
+  "bike3000": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:3000:3399/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike3000"
+  },
+  "bike3400": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:3400:3799/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike3400"
+  },
+  "bike3800": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:3800:4499/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike3800"
+  },
+  "bike4500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:4500:5999/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike4500"
+  },
+  "bike6000": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-fahrraeder/anzeige:angebote/preis:6000:/seite:#pag#/c217",
+    "pag": 1,
+    "culink": 0,
+    "filename": "bike6000"
+  },
+  "roti1190": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1190:1199/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1190"
+  },
+  "roti1200": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1200:1209/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1200"
+  },
+  "roti1210": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1210:1249/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1210"
+  },
+  "roti1250": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1250:1289/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1250"
+  },
+  "roti1290": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1290:1309/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1290"
+  },
+  "roti1310": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1310:1389/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1310"
+  },
+  "roti1390": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1390:1409/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1390"
+  },
+  "roti1410": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1410:1459/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1410"
+  },
+  "roti1460": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1460:1499/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1460"
+  },
+  "roti1500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1500:1509/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1500"
+  },
+  "roti1510": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1510:1599/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1510"
+  },
+  "roti1600": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1600:1649/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1600"
+  },
+  "roti1650": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1650:1699/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1650"
+  },
+  "roti1700": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1700:1799/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1700"
+  },
+  "roti1800": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1800:1899/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1800"
+  },
+  "roti1900": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:1900:1999/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti1900"
+  },
+  "roti2000": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:2000:2099/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti2000"
+  },
+  "roti2100": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:2100:2299/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti2100"
+  },
+  "roti2300": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:2300:2499/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti2300"
+  },
+  "roti2500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:2500:2699/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti2500"
+  },
+  "roti2700": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:2700:3099/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti2700"
+  },
+  "roti3100": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:3100:3999/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti3100"
+  },
+  "roti4000": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-autoteile-reifen/reifen_felgen/anzeige:angebote/preis:4000:/seite:#pag#/c223+autoteile_reifen.art_s:reifen_felgen",
+    "pag": 1,
+    "culink": 0,
+    "filename": "roti4000"
+  },
+  "sams130": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:130:139/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams130"
+  },
+  "sams140": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:140:149/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams140"
+  },
+  "sams160": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:160:169/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams160"
+  },
+  "sams170": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:170:179/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams170"
+  },
+  "sams180": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:180:189/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams180"
+  },
+  "sams190": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:190:199/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams190"
+  },
+  "sams200": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:200:209/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams200"
+  },
+  "sams210": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:210:229/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams210"
+  },
+  "sams230": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:230:249/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams230"
+  },
+  "sams250": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:250:259/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams250"
+  },
+  "sams260": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:260:279/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams260"
+  },
+  "sams280": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:280:299/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams280"
+  },
+  "sams300": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:300:309/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams300"
+  },
+  "sams310": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:310:349/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams310"
+  },
+  "sams350": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:350:379/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams350"
+  },
+  "sams380": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:380:419/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams380"
+  },
+  "sams420": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:420:469/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams420"
+  },
+  "sams470": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:470:509/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams470"
+  },
+  "sams510": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:510:659/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams510"
+  },
+  "sams560": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:560:649/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams560"
+  },
+  "sams650": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:650:799/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams650"
+  },
+  "sams800": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:800:/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams800"
+  },
+  "iphone210": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:210:219/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone210"
+  },
+  "iphone230": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:230:239/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone230"
+  },
+  "iphone240": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:240:249/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone240"
+  },
+  "iphone260": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:260:269/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone260"
+  },
+  "iphone270": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:270:279/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone270"
+  },
+  "iphone280": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:280:289/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone280"
+  },
+  "iphone290": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:290:299/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone290"
+  },
+  "iphone310": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:310:329/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone310"
+  },
+  "iphone330": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:330:349/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone330"
+  },
+  "iphone360": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:360:379/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone360"
+  },
+  "iphone380": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:380:399/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone380"
+  },
+  "iphone400": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:400:409/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone400"
+  },
+  "iphone410": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:410:449/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone410"
+  },
+  "iphone450": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:450:459/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone450"
+  },
+  "iphone460": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:460:499/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone460"
+  },
+  "iphone500": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:500:509/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone500"
+  },
+  "iphone510": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:510:549/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone510"
+  },
+  "iphone550": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:550:579/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone550"
+  },
+  "iphone580": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:580:609/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone580"
+  },
+  "iphone610": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:610:659/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone610"
+  },
+  "iphone660": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:660:709/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone660"
+  },
+  "iphone710": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:710:799/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone710"
+  },
+  "iphone800": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:800:909/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone800"
+  },
+  "iphone910": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:910:1099/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone910"
+  },
+  "iphone1100": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:1100:/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone1100"
+  },
+  "sony": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/sony_handy/anzeige:angebote/preis:150:/seite:#pag#/c173+handy_telekom.art_s:sony_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sony"
+  },
+  "htc": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/htc_handy/anzeige:angebote/preis:150:/seite:#pag#/c173+handy_telekom.art_s:htc_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "htc"
+  },
+  "lg": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/lg_handy/anzeige:angebote/preis:150:/seite:#pag#/c173+handy_telekom.art_s:lg_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "lg"
+  },
+  "motorola": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/motorola_handy/anzeige:angebote/preis:150:/seite:#pag#/c173+handy_telekom.art_s:motorola_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "motorola"
+  },
+  "nokia": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/nokia_handy/anzeige:angebote/preis:150:/seite:#pag#/c173+handy_telekom.art_s:nokia_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "nokia"
+  },
+  "siemens": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/siemens_handy/anzeige:angebote/preis:150:/seite:#pag#/c173+handy_telekom.art_s:siemens_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "siemens"
+  },
+  "telefone": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/telefone/anzeige:angebote/preis:150:/seite:#pag#/c173+handy_telekom.art_s:telefone",
+    "pag": 1,
+    "culink": 0,
+    "filename": "telefone"
+  },
+  "sonstige150": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/sonstige/anzeige:angebote/preis:150:169/seite:#pag#/c173+handy_telekom.art_s:sonstige",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sonstige150"
+  },
+  "sonstige170": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/sonstige/anzeige:angebote/preis:170:189/seite:#pag#/c173+handy_telekom.art_s:sonstige",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sonstige170"
+  },
+  "sonstige190": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/sonstige/anzeige:angebote/preis:190:209/seite:#pag#/c173+handy_telekom.art_s:sonstige",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sonstige190"
+  },
+  "sonstige210": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/sonstige/anzeige:angebote/preis:210:249/seite:#pag#/c173+handy_telekom.art_s:sonstige",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sonstige210"
+  },
+  "sonstige250": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/sonstige/anzeige:angebote/preis:250:289/seite:#pag#/c173+handy_telekom.art_s:sonstige",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sonstige250"
+  },
+  "sonstige290": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/sonstige/anzeige:angebote/preis:290:349/seite:#pag#/c173+handy_telekom.art_s:sonstige",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sonstige290"
+  },
+  "sonstige350": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/sonstige/anzeige:angebote/preis:350:449/seite:#pag#/c173+handy_telekom.art_s:sonstige",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sonstige350"
+  },
+  "sonstige450": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/sonstige/anzeige:angebote/preis:450:599/seite:#pag#/c173+handy_telekom.art_s:sonstige",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sonstige450"
+  },
+  "sonstige600": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/sonstige/anzeige:angebote/preis:600:/seite:#pag#/c173+handy_telekom.art_s:sonstige",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sonstige600"
+  },
+  "sams150lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/samsung_handy/anzeige:angebote/preis:150:159/seite:#pag#/c173+handy_telekom.art_s:samsung_handy",
+    "pag": 1,
+    "culink": 0,
+    "filename": "sams150lung"
+  },
+  "iphone120lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:120:129/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone120lung"
+  },
+  "iphone130lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:130:139/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone130lung"
+  },
+  "iphone140lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:140:149/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone140lung"
+  },
+  "iphone150lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:150:159/seite:#pag#/7/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone150lung"
+  },
+  "iphone150s": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:150:159/seite:#pag#/6s/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone150s"
+  },
+  "iphone160lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:160:169/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone160lung"
+  },
+  "iphone170lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:170:179/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone170lung"
+  },
+  "iphone180lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:180:189/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone180lung"
+  },
+  "iphone190lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:190:199/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone190lung"
+  },
+  "iphone200lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:200:209/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone200lung"
+  },
+  "iphone220lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:220:229/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone220lung"
+  },
+  "iphone250lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:250:259/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone250lung"
+  },
+  "iphone300lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:300:309/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone300lung"
+  },
+  "iphone350lung": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-handy-telekom/apple/anzeige:angebote/preis:350:359/seite:#pag#/c173+handy_telekom.art_s:apple",
+    "pag": 1,
+    "culink": 0,
+    "filename": "iphone350lung"
+  },
+  "nvidiagtx": {
+    "link": "https://www.ebay-kleinanzeigen.de/s-pc-zubehoer-software/anzeige:angebote/seite:#pag#/nvidia-gtx/k0c225",
+    "pag": 1,
+    "culink": 0,
+    "filename": "nvidiagtx"
+  }
+}
